@@ -13,3 +13,5 @@ Rules For Contribution:
 - Change the folders name as per the Teachers Name.
   
 - Send a Pull Request.
+
+- All the protfolio websites of teachers will be hosted on github pages and  this official account will be used.
