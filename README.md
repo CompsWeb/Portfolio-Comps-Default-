@@ -15,3 +15,5 @@ Rules For Contribution:
 - Send a Pull Request.
 
 - All the protfolio websites of teachers will be hosted on github pages and  this official account will be used.
+
+- All the teachers should have their complete profile updated 
