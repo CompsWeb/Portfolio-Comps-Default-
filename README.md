@@ -4,7 +4,7 @@ Comps teachers Portfolio .
 
 Rules For Contribution: 
 
-- Take info From the teachers.
+- Take information From the teachers.
   
 - Fork and Clone this repository template.
   
@@ -16,4 +16,6 @@ Rules For Contribution:
 
 - All the protfolio websites of teachers will be hosted on github pages and  this official account will be used.
 
-- All the teachers should have their complete profile updated and then the pages hosted
+- All the teachers should have their complete profile updated and then the pages hosted.
+
+- Update in the main comps website .
